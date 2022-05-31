@@ -14,7 +14,7 @@ function MainPage() {
 
 	return (
 		<>
-			<table>
+			<table border='2'>
 				<tr>
 					<td>Name</td>
 					<td>email</td>
